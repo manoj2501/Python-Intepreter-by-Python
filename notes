@@ -1,0 +1,11 @@
+REPL python > read eval print loop
+
+here intepreter is the last step in process of executing a python program
+
+before intepreter > lexing , parsing , compiling  > structured object code
+
+the Python compiler has much less information about the behavior of a program than a C compiler does.
+
+judy the intepreter not the runtime and the object system
+
+LOAD_VALUE ADD_TWO_VALUES PRINT_ANSWER
